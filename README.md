@@ -1,24 +1,13 @@
 ![OGC Logo](http://portal.opengeospatial.org/files/?artifact_id=11976&format=gif "OGC Logo")
 
-Document Template
+Overview:
 ==========
-
-To create your own repository using this repository as a template, execute the following commands from a command line:
-   * git clone --depth 1 --origin source document-template new-document
-   * cd new-document
-   * git create new-document
-
-For more information on how this works, see http://kevinthompson.info/blog/2013/11/11/using-git-repos-as-project-templates.html
+The Web Coverage Tiling Service (WCTS) SWG will develop an OGC Standard that supports the requirements for disseminating geospatial data in tiles to lightweight devices. Furthermore, this Standard will define in detail how existing Standards that are well used in the IT domain are to be used to enable data tiling functionality in OGC services.
    
 About
 -----
 
-This GitHub repository is designed to be used as a basis for official OGC documents.
-It is based on the [GeoPackage specification](http://www.geopackage.org/spec). 
-With this repository the OGC invites collaboration and comments directed at the development 
-and enhancement of this candidate standard. 
-
-The repo tracks the latest version of the specification as it evolves. Pull requests for fixes are
+The repo tracks the latest version of the WCTS specification as it evolves. Pull requests for fixes are
 appreciated, and new functionality will still be considered even though version 1.0 has been adopted. The spec
 is done in [asciidoc](http://www.methods.co.nz/asciidoc/) a format supported by GitHub, similar to markdown
 but with some features that make it better for specifications, like automatic section numbering.
